@@ -2,7 +2,7 @@
 <h3 align="center">A passionate JAVA developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyomgupta922&label=Profile%20views&color=0e75b6&style=flat" alt="vyomgupta922" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif">
 - 🔭 I’m currently working on **Google assistance using JAVA**
 
 - 🌱 I’m currently learning **PYTHON / NODEJS / ANDROID**
